@@ -1,2 +1,1 @@
-# hello-world
-my first repository
+Hey together, I'm pynik-tum!
